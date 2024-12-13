@@ -14,8 +14,7 @@ scenarios:
 2) right more than left;  
 3) same amount, the types dont matches
 4） corner case: s.length() == 1 return false;
- * 
- */
+*/
 
 
 class Solution {

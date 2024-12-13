@@ -1,12 +1,13 @@
+https://leetcode.com/u/Emily8183/
+
 # December 2nd 2024 - Weekly Problem Set
 
 When taking on these problems, you should try to solve them on your own for 15-20 minutes, **but no longer**.
 Not knowing the answer is fine. You want to ensure you give yourself time to work your brain to solve it, but not waste time if you just don't have the knowledge.
 
 After 15-20 minutes, you can then view other peoples solutions in the "Solutions" tab in the LeetCode window.
-When you view the solution, you should then take the time (at least 25 minutes at a time) to understand how the solution works, adding it to your own code window and changing pieces of it to help understand what each part does. 
+When you view the solution, you should then take the time (at least 25 minutes at a time) to understand how the solution works, adding it to your own code window and changing pieces of it to help understand what each part does.
 Then, take a 5 minute break. After that break, come back and try to solve the problem on your own again with no help.
-
 
 ## Software Development - Data Structure & Algorithm Questions
 
@@ -25,7 +26,6 @@ DSA concepts covered by these problems: **Arrays & Hashing**
    - Youtube Solution - https://www.youtube.com/watch?v=B1k_sxOSgv8
 5. Medium (leaning towards Hard) Difficulty - https://leetcode.com/problems/valid-sudoku/description/
    - Youtube Solution - https://www.youtube.com/watch?v=TjFXEUCMqI8
-
 
 ## Data Analysis and Data Engineering
 
