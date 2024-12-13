@@ -5,8 +5,9 @@ List<List<String>> result = new ArrayList<>();
 solution: 
 1, convert each str to a num, save into a hashmap: key - number; value - str
 2, for loop: if (return true) add to the index; else add new list
- * 
- */
+
+Time complexity: O(m * n) <= String[] & String; space complexity: O(m * n);
+*/
 
 import java.util.ArrayList;
 import java.util.Arrays;
