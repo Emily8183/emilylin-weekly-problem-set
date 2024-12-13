@@ -5,7 +5,6 @@
 //key-value pair: num - index
 //result: Time Complexity: O(n); Memory Complexity: O(n);
 
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> map = new HashMap<>(); 
