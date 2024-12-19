@@ -9,3 +9,4 @@ The solutions work successfully on leetcode. However, in this repo, the class na
 ### Progress
 
 `2024-12-02` is completed;
+`2024-12-09` is completed;
