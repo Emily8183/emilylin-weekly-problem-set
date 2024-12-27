@@ -1,9 +1,9 @@
 /*
  * condition: n pairs of parrentheses
  * solution: backtracking
- * 1，set up ArrayList<>() and List<>();
- * 2, end point: list.size() == n
- * 3, paremeter, 
+ * 1，set up List<String> result;
+ * 2, end point: leftNum == 0 && rightNum == 0
+ * 3, paremeter: String path
  */
 
  class Solution {
