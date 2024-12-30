@@ -3,6 +3,7 @@
  * goal: a function to search the target in int[] nums; return the index otherwise return -1
  * requirement: O(log n) (can't interate the entire array)
  * solution: binary search
+ * time complexity: O(logN), memory O(1)
  */
 
 public class lc704 {
